@@ -12,7 +12,7 @@ Connecting with professionals in the data science community and learning from th
 
 ## 💞️ I’m looking to collaborate on 
 
-Data analysis projects, especially those involving Python and SQL. I’m eager to work with others to solve complex problems and gain insights from data."
+Data analysis projects, especially those involving R and SQL. I’m eager to work with others to solve complex problems and gain insights from data."
 
 ## 📫 How to reach me 
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/luisa-fernanda-pena-naranjo/)
