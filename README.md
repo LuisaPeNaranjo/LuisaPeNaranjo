@@ -16,7 +16,7 @@ Data analysis projects, especially those involving R and SQL. I’m eager to wor
 
 ## 📫 How to reach me 
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/luisa-fernanda-pena-naranjo/)
-- **Email**: lu.fernanda92@example.com
+- **Email**: lu.fernanda92@gmail.com
 
 ## ⚡ Fun fact: 
 
